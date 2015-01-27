@@ -1,3 +1,3 @@
-web-img
+mouse-position
 ============
 
